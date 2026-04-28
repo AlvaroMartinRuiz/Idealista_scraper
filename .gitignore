@@ -1,0 +1,20 @@
+# Data (scraped/output)
+data/
+
+# Ignore bibliography folder
+bibliography/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Images
+*.png
